@@ -44,7 +44,7 @@ The project includes:
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](sales_analysis dashboard image.png)
+![Dashboard Screenshot](dashboard.png)
 
 ---
 
